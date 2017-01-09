@@ -8,7 +8,7 @@ pip install pyaudio
 ```
 
 ###Using __PyRecorder__.
-Simply open it using you Terminal or Command Line Prompt.
+Simply open it using your Terminal or Command Line Prompt.
 ```Bash
 python AudioRecorder.py
 ```
@@ -19,4 +19,4 @@ After finish recording press `Ctrl+C` to exit.
 Your output file will be generated in the same directory the script in.
 
 ###Why I made this script?
-Learning Purpose. 
+Learning Purpose.
